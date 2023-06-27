@@ -1,7 +1,7 @@
 <h1 align="center"> Root Your ChatGPT </h1>
 <h6 align="center"> By Genplat </h6>
 <h1></h1>
-<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root/readme-en.md">English</h4>
+<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root/blob/main/readme-en.md">English</h4>
 <br><br>
 <h2>Bienvenido a GPT-R00T, un proyecto para sacarle el máximo partido a ChatGPT.</h2>
 <br>
@@ -27,9 +27,9 @@
 <summary><h4>Instalar</h4></summary>
 <p>Aprende a instalar GPT-R00T</p>
 <ul>
-  <li>Copia la <a href="https://github.com/Genplat/gpt-root/input.txt">input de instalación</a></li>
+  <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
   <li>Entra en <a href="https://chat.openai.com">chat.openai.com</a></li>
-  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/input.txt">input de instalación</a></li>
+  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
   <li>Dale a enviar y... ¡Listo!</li>
 </ul>
 </details>
