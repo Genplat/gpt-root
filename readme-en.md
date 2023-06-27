@@ -1,7 +1,7 @@
 <h1 align="center"> Root Your ChatGPT </h1>
 <h6 align="center"> By Genplat </h6>
 <h1></h1>
-<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/README.md">Spanish</h4>
+<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root/README.md">Spanish</h4>
 <br><br>
 <h2>Welcome to GPT-R00T, a project to get the most out of ChatGPT.</h2>
 <br>
