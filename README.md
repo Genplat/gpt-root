@@ -18,6 +18,7 @@
   <li>Jailbreack</li>
   <li>Terminal Linux</li>
   <li>Terminal PowerShell</li>
+  <li>[Avanzado sistema de plugins](https://github.com/Genplat/gpt-root-plugins)</li>
 </ul>
 </details>
 
@@ -32,10 +33,12 @@
   <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
   <li>Dale a enviar y... ¡Listo!</li>
 </ul>
+<br>
+<b>Recuerda: Para poder utilizar plugins [haz click aquí](https://github.com/Genplat/gpt-root-plugins)</b>
 </details>
 <details>
 <summary><h4>Uso</h4></summary>
-<p>En el menú principal, envia como un mensaje el número de la opción que quieres. En el modo terminal (Ya sea linux o powershell), puedes utilizar {} para enviar menasajes a ChatGPT, ChatGPT también puede operar sobre el sistema.</p>
+<p>En el menú principal, envia como un mensaje el número de la opción que quieres. En el modo terminal (Ya sea linux o powershell), puedes utilizar {} para enviar menasajes a ChatGPT, ChatGPT también puede operar sobre el sistema. Recuerda que para volver al menú principal tan solo tienes que enviar `gptmainmenu`.</p>
 </details>
 <br>
 <br>
