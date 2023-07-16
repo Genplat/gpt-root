@@ -18,7 +18,10 @@
    <li>Jailbreak</li>
    <li>Linux Terminal</li>
    <li>PowerShell Terminal</li>
+   <li>[Advanced plugin engine](https://github.com/Genplat/gpt-root-plugins)</li>
 </ul>
+<br>
+<b>Remember: To be able to use plugins [click here](https://github.com/Genplat/gpt-root-plugins)</b>
 </details>
 
 <h3>Installation and use</h3>
@@ -35,7 +38,7 @@
 </details>
 <details>
 <summary><h4>Use</h4></summary>
-<p>In the main menu, send as a message the number of the option you want. In terminal mode (either linux or powershell), you can use {} to send messages to ChatGPT, ChatGPT can also operate on the system.</p>
+<p>In the main menu, send as a message the number of the option you want. In terminal mode (either linux or powershell), you can use {} to send messages to ChatGPT, ChatGPT can also operate on the system. Recuerda que para volver al menú principal tan solo tienes que enviar `gptmainmenu`.</p>
 </details>
 <br>
 <br>
