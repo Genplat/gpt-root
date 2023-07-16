@@ -18,7 +18,7 @@
   <li>Jailbreack</li>
   <li>Terminal Linux</li>
   <li>Terminal PowerShell</li>
-  <li>[Avanzado sistema de plugins](https://github.com/Genplat/gpt-root-plugins)</li>
+  <li><a href="https://github.com/Genplat/gpt-root-plugins">Avanzado sistema de plugins</a></li>
 </ul>
 </details>
 
@@ -34,7 +34,7 @@
   <li>Dale a enviar y... ¡Listo!</li>
 </ul>
 <br>
-<b>Recuerda: Para poder utilizar plugins [haz click aquí](https://github.com/Genplat/gpt-root-plugins)</b>
+<b>Recuerda: Para poder utilizar plugins <a href="https://github.com/Genplat/gpt-root-plugins">haz click aquí</a></b>
 </details>
 <details>
 <summary><h4>Uso</h4></summary>
