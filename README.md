@@ -31,11 +31,11 @@
 <summary><h4>Instalar</h4></summary>
 <p>Aprende a instalar GPT-R00T</p>
 <ul>
-  <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
+  <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">input de instalación</a></li>
   <li>Entra en <a href="https://chat.openai.com">chat.openai.com</a></li>
   <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">input de instalación</a></li>
     <ul>
-      <li>En la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a> hay varias partes divididas por "===[]===", esto se debe a que la input es muy larga, copia cada parte y enviala (Omitiendo siempre los divisores)</li>
+      <li>En la <a href="https://github.com/Genplat/gpt-root/blob/main/input-betta.txt">input de instalación</a> hay varias partes divididas por "===[]===", esto se debe a que la input es muy larga, copia cada parte y enviala (Omitiendo siempre los divisores)</li>
       <li>La versión 2 todavía está en beta, si quiere, puede utilizar la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">versión 1.1</a>, la última versión estable, pronto saldrá GPT-R00T 2 estable.</li>
     </ul>
   <li>Dale a enviar y... ¡Listo!</li>
