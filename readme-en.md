@@ -1,53 +1,53 @@
 <h1 align="center"> Root Your ChatGPT </h1>
 <h6 align="center"> By Genplat </h6>
 <h1></h1>
-<h5 align="center"> This page is also available in <a href="https://github.com/Genplat/gpt-root/blob/main/readme-en.md">English</h4>
+<h5 align="center">Esta pagina también está disponible en <a href="https://github.com/Genplat/gpt-root/blob/main/README.md">Español</h4>
 <br><br>
-<h2>Bienvenido a GPT-R00T, un proyecto para sacarle el máximo partido a ChatGPT.</h2>
+<h2>Welcome to GPT-R00T, a project to get the most out of ChatGPT.</h2>
 <br>
 <br>
 <details>
-<summary><h4>¿Que es GPT-ROOT?</h4></summary>
-<p>GPT-R00T, también conocido como GPT4-R00T es una input para ChatGPT la cual otorga al usuario funciones únicas como una shell linux, powershell o incluso un modo SIN CENSURA. GPT-R00T también cuenta con un menú interactivo, el mismo fue creado por Genplat, líder de la organización <a href="https://elite6-27.cf">Elite 6-27</a>, el creador no se hace responsable de los daños causados</p>
+<summary><h4>What is GPT-ROOT?</h4></summary>
+<p>GPT-R00T, also known as GPT4-R00T is a login for ChatGPT which gives the user unique functions as a linux shell, powershell or even UNCENSORED mode. GPT-R00T also has an interactive menu, it was created by Genplat, leader of the organization <a href="https://elite6-27.cf">Elite 6-27</a>, the creator does not know responsible for the damages caused</p>
 </details>
 <details>
-<summary><h4>Funciones</h4></summary>
-<p>Actualmente GPT-R00T cuenta con varias funciones innovadoras</p>
+<summary><h4>Functions</h4></summary>
+<p>GPT-R00T currently has several innovative functions</p>
 <ul>
-  <li>Interfaz Moderna</li>
-  <li>Colores</li>
-  <li>Creditos</li>
-  <li>QuickSilverOS Integrado</li>
-  <li>Jailbreak</li>
-  <li>Terminal Linux</li>
-  <li>Terminal PowerShell</li>
-  <li><a href="https://github.com/Genplat/gpt-root-plugins">Avanzado sistema de plugins</a> (Integrado por defecto en 2.0+)</li>
+   <li>Modern Interface</li>
+   <li>Colors</li>
+   <li>Credits</li>
+   <li>QuickSilverOS Integrated</li>
+   <li>Jailbreak</li>
+   <li>Linux Terminal</li>
+   <li>PowerShell Terminal</li>
+   <li><a href="https://github.com/Genplat/gpt-root-plugins">Advanced plugin system</a> (Built-in by default in 2.0+)</li>
 </ul>
 </details>
 
-<h3>Instalación y uso</h3>
+<h3>Installation and use</h3>
 <br>
 <details>
-<summary><h4>Instalar</h4></summary>
-<p>Aprende a instalar GPT-R00T</p>
+<summary><h4>Install</h4></summary>
+<p>Learn how to install GPT-R00T</p>
 <ul>
-  <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">input de instalación</a></li>
-  <li>Entra en <a href="https://chat.openai.com">chat.openai.com</a></li>
-  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">input de instalación</a></li>
-    <ul>
-      <li>En la <a href="https://github.com/Genplat/gpt-root/blob/main/input-betta.txt">input de instalación</a> hay varias partes divididas por "===[]===", esto se debe a que la input es muy larga, copia cada parte y enviala (Omitiendo siempre los divisores)</li>
-      <li>La versión 2 todavía está en beta, si quiere, puede utilizar la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">versión 1.1</a>, la última versión estable, pronto saldrá GPT-R00T 2 estable.</li>
-    </ul>
-  <li>Dale a enviar y... ¡Listo!</li>
+   <li>Copy the <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">install input</a></li>
+   <li>Go to <a href="https://chat.openai.com">chat.openai.com</a></li>
+   <li>In a new chat, paste the <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">install input</a></li >
+     <ul>
+       <li>In the <a href="https://github.com/Genplat/gpt-root/blob/main/input-betta.txt">installation input</a> there are several parts divided by "== =[]===", this is because the input is too long, copy each part and send it (Always omitting the divisors)</li>
+       <li>Version 2 is still in beta, if you want you can use <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">version 1.1</a >, the latest stable version, GPT-R00T 2 stable will be out soon.</li>
+     </ul>
+   <li>Hit send and... Done!</li>
 </ul>
 <br>
-<b>Recuerda: Para poder utilizar plugins en la versión estable <a href="https://github.com/Genplat/gpt-root-plugins">haz click aquí</a></b>
+<b>Remember: To be able to use plugins in the stable version <a href="https://github.com/Genplat/gpt-root-plugins">click here</a></b>
 </details>
 <details>
-<summary><h4>Uso</h4></summary>
-<p>En el menú principal, envia como un mensaje el número de la opción que quieres. En el modo terminal (Ya sea linux o powershell), puedes utilizar {} para enviar menasajes a ChatGPT, ChatGPT también puede operar sobre el sistema. Recuerda que para volver al menú principal tan solo tienes que enviar `gptmainmenu`.</p>
+<summary><h4>Use</h4></summary>
+<p>In the main menu, send as a message the number of the option you want. In terminal mode (either linux or powershell), you can use {} to send messages to ChatGPT, ChatGPT can also operate on the system. Remember that to return to the main menu you just have to send `gptmainmenu`.</p>
 </details>
 <br>
 <br>
 <br>
-<h6 align="center"> From Genplat </h6>
+<h6 align="center">From Genplat </h6>
