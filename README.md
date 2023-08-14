@@ -15,10 +15,13 @@
 <p>Actualmente GPT-R00T cuenta con varias funciones innovadoras</p>
 <ul>
   <li>Interfaz Moderna</li>
-  <li>Jailbreack</li>
+  <li>Colores</li>
+  <li>Creditos</li>
+  <li>QuickSilverOS Integrado</li>
+  <li>Jailbreak</li>
   <li>Terminal Linux</li>
   <li>Terminal PowerShell</li>
-  <li><a href="https://github.com/Genplat/gpt-root-plugins">Avanzado sistema de plugins</a></li>
+  <li><a href="https://github.com/Genplat/gpt-root-plugins">Avanzado sistema de plugins</a> (Integrado por defecto en 2.0+)</li>
 </ul>
 </details>
 
@@ -30,11 +33,15 @@
 <ul>
   <li>Copia la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
   <li>Entra en <a href="https://chat.openai.com">chat.openai.com</a></li>
-  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a></li>
+  <li>En un chat nuevo, pega la <a href="https://github.com/Genplat/gpt-root/blob/main/input-beta.txt">input de instalación</a></li>
+    <ul>
+      <li>En la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">input de instalación</a> hay varias partes divididas por "===[]===", esto se debe a que la input es muy larga, copia cada parte y enviala (Omitiendo siempre los divisores)</li>
+      <li>La versión 2 todavía está en beta, si quiere, puede utilizar la <a href="https://github.com/Genplat/gpt-root/blob/main/input.txt">versión 1.1</a>, la última versión estable, pronto saldrá GPT-R00T 2 estable.</li>
+    </ul>
   <li>Dale a enviar y... ¡Listo!</li>
 </ul>
 <br>
-<b>Recuerda: Para poder utilizar plugins <a href="https://github.com/Genplat/gpt-root-plugins">haz click aquí</a></b>
+<b>Recuerda: Para poder utilizar plugins en la versión estable <a href="https://github.com/Genplat/gpt-root-plugins">haz click aquí</a></b>
 </details>
 <details>
 <summary><h4>Uso</h4></summary>
